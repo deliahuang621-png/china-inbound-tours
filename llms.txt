@@ -2,7 +2,7 @@
 
 > Visa-free-ready China inbound itineraries for international tour operators (B2B).
 > Every visa policy claim links to official National Immigration Administration (NIA) of China sources, last verified 2026-10-01.
-> Concepts are proposals; ground services, pricing and contracting are provided by licensed Chinese inbound tour operators.
+> Samples are proposals; ground services, pricing and contracting are provided by licensed Chinese inbound tour operators.
 
 ## Pages
 - [index.html](https://deliahuang621-png.github.io/china-inbound-tours/): overview, itinerary index, cooperation model
@@ -10,7 +10,7 @@
 - [about.html](https://deliahuang621-png.github.io/china-inbound-tours/about.html): who Delia Huang is, what she provides, working principles (B2B only, non-exclusive, no unverified claims)
 - [contact.html](https://deliahuang621-png.github.io/china-inbound-tours/contact.html): how to request an itinerary proposal
 
-## Itineraries (rolling out; concept proposals in detail on request via email)
+## Itineraries (rolling out; sample proposals in detail on request via email)
 - Hainan "Tech & Rainforest" Journey — 12–14 days, all ages; visa-free for the 61 Hainan-eligible countries including the US; families/adult interest groups as the base product, school study-tour version available
 - "Spicy China" Food & Craft Journey — 10–12 days, Sichuan–Chongqing–Yunnan; AU/UK via 30-day waiver, US/CA/MX via 240-hour transit
 - Greater Bay Area "Tech Corridor + Engineering Wonders" Journey — 13–14 days, all ages with three visa layers: 30-day waiver (50 countries) → 240-hour transit (57 including US/CA/MX, adult version) → 6-day HK/Macao group policy (no nationality restriction); school study-tour version available
