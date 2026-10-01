@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://deliahuang621-png.github.io/china-inbound-tours/sitemap.xml
