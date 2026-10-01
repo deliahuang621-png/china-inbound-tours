@@ -6,7 +6,7 @@
 
 ## Pages
 - [index.html](https://deliahuang621-png.github.io/china-inbound-tours/): overview, route concept index, cooperation model
-- [visa-free-playbook.html](https://deliahuang621-png.github.io/china-inbound-tours/visa-free-playbook.html): the five visa-free policies relevant to group travel (A: unilateral 30-day waiver, 50 countries; B: 240-hour transit, 57 countries incl. US/CA/MX, 65 ports; C: Hainan 30-day, 61 countries; F1/F2: HK/Macao group tour → Guangdong/Hainan 6 days, no nationality restriction; G: mutual exemption agreements, 29 countries), with the full 65-port table and official source links
+- [visa-free-playbook.html](https://deliahuang621-png.github.io/china-inbound-tours/visa-free-playbook.html): the five visa-free policies relevant to group travel (A: unilateral 30-day waiver, 50 countries; B: 240-hour transit, 57 countries incl. US/CA/MX, 65 ports; C: Hainan 30-day, 61 countries; F1/F2: HK/Macao group tour → Guangdong/Hainan 6 days, no nationality restriction; G: mutual exemption agreements, 29 countries), with the full 65-port table and official source links. Full country lists are not published on the page — available on request by email.
 - [about.html](https://deliahuang621-png.github.io/china-inbound-tours/about.html): who Delia Huang is, what she provides, working principles (B2B only, non-exclusive, no invented facts)
 - [contact.html](https://deliahuang621-png.github.io/china-inbound-tours/contact.html): how to request a route proposal
 
